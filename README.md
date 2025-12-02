@@ -15,15 +15,15 @@
 
 ![Labyrinth](https://github.com/NxNelly/STEM3/blob/main/Labyrinth.jpeg)
 
-Street Light made with ESP32
+## Street Light made with ESP32
 
 - KY-034 LE Flash-Module
 - Button with Touchpin input
 
 ![Street Light](https://github.com/NxNelly/STEM3/blob/main/Ampel.jpeg)
-## Arduino Code
+### Arduino Code
 
-...
+```
 const int ledPinRed = 14;
 const int ledPinGreen = 12;
 bool LED_RED = true;
@@ -79,4 +79,4 @@ void loop() {
     }
   }
 }
-...
+```
