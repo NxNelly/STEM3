@@ -8,10 +8,9 @@
   
 **Reacting to:**
 - Red: stop moving
-- Green: 
 - Blue: turn left
 - Purple: turn right
-- combination of color: turn around
+- combination of color: turn around (not jet implemented)
 
 ![Labyrinth](https://github.com/NxNelly/STEM3/blob/main/Labyrinth.jpeg)
 
