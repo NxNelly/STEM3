@@ -1,15 +1,15 @@
 # STEM3 Project
 
-##Making a GoPiGo Robot navigate a labyrinth through colors
+## Making a GoPiGo Robot navigate a labyrinth through colors
 
-Specifications: 
+**Specifications:**
 - camera
 - distance sensor
   
-Reacting to:
+**Reacting to:**
 - Red: stop moving
 - Green: 
 - Blue: turn left
 - Purple: turn right
 
-![Labyrinth](http://NxNelly/STEM3/Labyrith)
+![Labyrinth](https://github.com/NxNelly/STEM3/blob/main/Labyrinth.jpeg)
