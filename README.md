@@ -2,7 +2,7 @@
 
 ## Making a GoPiGo Robot navigate a labyrinth through colors
 
-**Specifications:**
+**Sensors:**
 - camera
 - distance sensor
   
