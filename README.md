@@ -1,5 +1,7 @@
 # STEM3 Project
 
+**Group members:** Nelly, Marcel, Justin, Jenny
+
 ## Making a GoPiGo Robot navigate a labyrinth through colors
 - camera
 - distance sensor
