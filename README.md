@@ -88,6 +88,8 @@ finally:
     gpg.stop()
 ```
 
+![Herbie in action](/herbie_driving.mp4) ![Herbies POV](/herbie_pov.mp4)
+
 ## Street Light made with ESP32
 
 - KY-034 LE Flash-Module
