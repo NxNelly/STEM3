@@ -88,7 +88,7 @@ finally:
     gpg.stop()
 ```
 
-![Herbie in action](/herbie_driving.mp4) ![Herbies POV](/herbie_pov.mp4)
+![Herbie in action]([/herbie_driving.mp4](https://drive.google.com/file/d/1tTPGwo-7tFivDUDQQjQeDab6EtDQBzbJ/view?usp=drive_link)) ![Herbies POV](/herbie_pov.mp4)
 
 ## Street Light made with ESP32
 
