@@ -15,6 +15,8 @@ Not yet implemented:
 - combination of color: turn around
 - white: speed up
 
+Watch Herbie drive [here](https://drive.google.com/file/d/1tTPGwo-7tFivDUDQQjQeDab6EtDQBzbJ/view?usp=drive_link), and see their point of view [here](https://drive.google.com/file/d/1n7Z22nHQU-6b_2p118t-VAgT7UZXwiAB/view?usp=drive_link)
+
 ![Labyrinth](https://github.com/NxNelly/STEM3/blob/main/Labyrinth.jpeg)
 
 ### Code
@@ -88,9 +90,6 @@ finally:
     gpg.stop()
 ```
 
-<video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1tTPGwo-7tFivDUDQQjQeDab6EtDQBzbJ/view?usp=drive_link" type="video/mp4">
-</video>
 
 ## Street Light made with ESP32
 
