@@ -88,7 +88,9 @@ finally:
     gpg.stop()
 ```
 
-![Herbie in action](https://drive.google.com/file/d/1tTPGwo-7tFivDUDQQjQeDab6EtDQBzbJ/view?usp=drive_link)
+<video width="320" height="240" controls>
+  <source src="https://drive.google.com/file/d/1tTPGwo-7tFivDUDQQjQeDab6EtDQBzbJ/view?usp=drive_link" type="video/mp4">
+</video>
 
 ## Street Light made with ESP32
 
