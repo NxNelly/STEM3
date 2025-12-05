@@ -15,13 +15,13 @@ Not yet implemented:
 - combination of color: turn around
 - white: speed up
 
->Watch Herbie drive **[HERE](https://drive.google.com/file/d/1tTPGwo-7tFivDUDQQjQeDab6EtDQBzbJ/view?usp=drive_link)**, and see their point of view **[HERE](https://drive.google.com/file/d/1n7Z22nHQU-6b_2p118t-VAgT7UZXwiAB/view?usp=drive_link)**
+>Watch Herbie drive **[here](https://drive.google.com/file/d/1tTPGwo-7tFivDUDQQjQeDab6EtDQBzbJ/view?usp=drive_link)**, and see their point of view **[here](https://drive.google.com/file/d/1n7Z22nHQU-6b_2p118t-VAgT7UZXwiAB/view?usp=drive_link)**
 
 ![Labyrinth](https://github.com/NxNelly/STEM3/blob/main/Labyrinth.jpeg)
 
 ### Code
 
-![Full code here](/herbie.py)
+>Find the full code **[here](/herbie.py)**
 
 ```
 #main logic
